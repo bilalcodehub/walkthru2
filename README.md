@@ -1,4 +1,4 @@
-# walkthru2
+# FastAI Walkthrough Session 2
 
 ## Introduction
 
